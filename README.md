@@ -7,3 +7,5 @@
     RST             D1
     3.3V            3.3V
     GND             GND
+通过python网页进行更新固件 当检测到更新时nodemcu会自动下载固件并更新到STM MCU中
+目前只写了http的链接
